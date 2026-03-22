@@ -1,5 +1,9 @@
 # Coal’d Blooded Mining Dashboard
 
+🔹**Dataset**
+
+The dataset used for this project can be accessed here: https://lnkd.in/dapxYeH9
+
 🔹 **Business Context**
 
 Coal'd Blooded Mining Co. faced several reporting challenges:
@@ -84,7 +88,7 @@ These insights support operational efficiency, cost control, and better planning
 
 ## 📊 Dashboard Preview
 
-**Operational & Commercial Performance Overview**
+**Operational & Commercial Performance Overview (Overview.png)**
 This dashboard provides a comprehensive view of Coal'd Blooded Mining Co.'s operational and commercial metrics. Key highlights include:
 
 - **Ore Mined (MTD)**: 845K tonnes - Total monthly production volume
@@ -102,7 +106,7 @@ This dashboard provides a comprehensive view of Coal'd Blooded Mining Co.'s oper
 
 ---
 
-### Ore Deep Dive - Coal
+### Ore Deep Dive - Coal (Ore Deep Dive.png)
 A detailed analytical view focused specifically on coal mining operations, providing financial and operational insights:
 
 - **Ore Mined (YTD)**: 6M tonnes - Annual coal production volume
