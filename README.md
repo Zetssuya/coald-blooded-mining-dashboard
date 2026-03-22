@@ -98,7 +98,7 @@ This dashboard provides a comprehensive view of Coal'd Blooded Mining Co.'s oper
 - Top 10 Contributors: Ranked list of sites by ore production, with New Laura Shaft leading at 249,938 MTD
 - Operational Disruption: Stacked bar chart tracking missed shifts vs unplanned shifts across all months
 
-**Use Case**: This dashboard is ideal for operational managers to quickly assess production performance, identify productivity trends, and benchmark site performance against targets.
+**Use Case**: This dashboard is ideal for executive and operational managers to quickly assess production performance, identify productivity trends, and benchmark site performance against targets.
 
 ---
 
@@ -115,8 +115,4 @@ A detailed analytical view focused specifically on coal mining operations, provi
 - Ranked Site Contribution: Coal production by mining location, with New Laura Shaft contributing 140,260 MTD
 - Ranked Extraction Method: Analysis of 12 different mining techniques, led by Boom and Pillar (58,957 MTD) and Drift and Fill (50,155 MTD)
 
-**Use Case**: This dashboard empowers finance and operations teams to track revenue realization, manage cash flow through payment status visibility, and optimize extraction methods based on production efficiency.
-
----
-
-Both dashboards work together to provide a 360-degree view of mining operations, combining operational metrics with financial performance for data-driven decision-making.
+**Use Case**: This report empowers executive and operations teams to track revenue realization, manage cash flow through payment status visibility, and optimize extraction methods based on production efficiency.
